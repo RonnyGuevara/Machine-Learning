@@ -1,6 +1,8 @@
-####El cuarteto de Ascombe
-El cuarteto de Anscombe llamado asi por F. J. Ascombe corresponde a cuatro conjuntos de datos que recurrentemente se utiliza para explicar la ventajas de la visualización como herramienta exploratoria (Coromina, 2009)
-Los datos descritos en cada conjunto son distintos, pero con propiedades estadisticas iguales como: media aritmetica, varianza, correlación, coeficiente de correlación y recta de regresión.
+# El cuarteto de Ascombe
+# El cuarteto de Anscombe llamado asi por F. J. Ascombe corresponde a cuatro conjuntos de datos que recurrentemente se utiliza 
+# para explicar la ventajas de la visualización como herramienta exploratoria (Coromina, 2009)
+# Los datos descritos en cada conjunto son distintos, pero con propiedades estadisticas iguales como: media aritmetica, varianza, 
+# correlación, coeficiente de correlación y recta de regresión.
 
 
 #!/usr/bin/env python
